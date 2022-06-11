@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/hw/practicee/bin/Debug/netcoreapp3.1/practicee.deps.json
+/Users/duyguhasanzade/Projects/hw/practicee/bin/Debug/netcoreapp3.1/practicee.runtimeconfig.json
+/Users/duyguhasanzade/Projects/hw/practicee/bin/Debug/netcoreapp3.1/practicee.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/hw/practicee/bin/Debug/netcoreapp3.1/practicee.dll
+/Users/duyguhasanzade/Projects/hw/practicee/bin/Debug/netcoreapp3.1/practicee.pdb
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.dll
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.pdb
+/Users/duyguhasanzade/Projects/hw/practicee/obj/Debug/netcoreapp3.1/practicee.genruntimeconfig.cache
